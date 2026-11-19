@@ -1,21 +1,38 @@
-# Instant Edge Intelligence & Decision Platform | 边缘AI 实时决策平台 👋
+# Hi, I'm Jieke Choo (褚建琪) 👋
 
-### **Jieke Choo (褚建琪)**
-**Founder & CEO @ YIQISOFT | Industrial AI & IIoT Architect | Edge Orchestration, Local LLM & OpenVINO Inference Expert**
+**Founder of [NereidAI](https://github.com/NereidAI) · CEO of [Yiqi Software](https://www.yiqisoft.cn/)**  
+**EdgeX Foundry TSC Member · LF Edge Open Horizon Contributor · Intel Innovator**
 
----
+I build open-source infrastructure for private, cloud-edge AI and IoT—from
+device onboarding and model factories to edge inference and OTA distribution.
 
-### 🌟 Ecosystem Roles & Honors / 生态角色与荣誉
-*   **EdgeX Foundry (LF Edge)**: TSC Member (Technical Steering Committee) since 2024 | Core Contributor
-*   **Intel**: Intel Innovator & Innovation Ambassador
-*   **Huawei**: Geek Developer (华为极客开发者)
+## What I'm building
 
-### 🚀 Mission / 愿景
-Driving Global Industrial AI Transformation — building next-generation comprehensive industrial AI platforms covering LLM, IoT, and Computer Vision.  
-推动全球工业 AI 转型 —— 打造覆盖大模型、物联网与计算机视觉的下一代工业 AI 平台。
+[NereidAI](https://github.com/NereidAI) is an Apache-2.0 open-source suite for
+privately deployed, cloud-edge AI and IoT:
 
-### ✍️ Blogs / 博客专栏
-*   🌐 [YIQISOFT Official Blog / 亿琪软件官方博客](https://www.yiqisoft.cn/blog/)
-*   🛠️ [Technical Blog / 技术深耕](https://yiqisoft.cn/blogs/)
+- **NereidLink** — device onboarding, IoT data pipelines, rules and alerts
+- **NereidForge** — the model factory: datasets, annotation, training,
+  evaluation, optimization and model registry
+- **NereidEdge & NereidInference** — resilient field gateways and edge AI
+  inference built around EdgeX
+- **NereidHorizon** — policy-driven OTA distribution for edge services and AI
+  models, built on Open Horizon
+- **NereidSphere & NereidIdentity** — the unified portal, SSO, RBAC and tenant
+  governance
 
----
+NereidHorizon has been contributed to the LF Edge Open Horizon project as
+[`oh-web-ui-nereid`](https://github.com/open-horizon/oh-web-ui-nereid).
+
+## Community roles & honors
+
+- **EdgeX Foundry** — Technical Steering Committee (TSC) member since 2024 and
+  core contributor
+- **Open Horizon** — contributor to the LF Edge edge-orchestration ecosystem
+- **Intel** — Intel Innovator and Innovation Ambassador
+- **Huawei Developer Community** — Distinguished Expert
+
+## Technical focus
+
+Industrial AI · IIoT · Local LLMs · OpenVINO · Edge Orchestration ·
+Multi-vendor Acceleration · Air-gapped Deployment
